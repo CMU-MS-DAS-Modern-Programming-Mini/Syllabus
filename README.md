@@ -41,6 +41,10 @@ The programming projects will be submitted as Jupyter Notebooks and deployed thr
 This syllabus is a guide for the course and is subject to change with appropriate advance
 notice.
 
+## Course Questions and Support
+
+The course will use the GitHub Issues tracking within this repsitory if you have any questions and the class or the instructor will help to answer the questions and close issues as they get answered. If you have any questions about how to do this, please contackt the course instructor.
+
 ## Email Policy:
 
 Assume a reply will require about 24h during the week. If emailed during the weekend,
